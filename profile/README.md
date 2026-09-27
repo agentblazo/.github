@@ -8,7 +8,7 @@
 
 See what your agents are doing.
 
-[Website](https://agentblazo.com) · [Documentation](https://agentblazo.com) · [GitHub](https://github.com/AgentBlazo)
+[Website](https://github.com/AgentBlazo) · [Documentation](https://agentblazo.com) · [GitHub](https://github.com/AgentBlazo)
 
 </div>
 
